@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-13T15:45:08 EET" name="test.folder.page.AmazonTest" finished-at="2024-02-13T15:45:26 EET" duration-ms="17329">
+    <groups>
+    </groups>
+    <test started-at="2024-02-13T15:45:08 EET" name="Command line test" finished-at="2024-02-13T15:45:26 EET" duration-ms="17329">
+      <class name="test.folder.page.AmazonTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:test.folder.page.AmazonTest@52102734]" started-at="2024-02-13T15:45:08 EET" name="openBrowser" finished-at="2024-02-13T15:45:11 EET" duration-ms="2951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="amazonTest()[pri:0, instance:test.folder.page.AmazonTest@52102734]" started-at="2024-02-13T15:45:11 EET" name="amazonTest" finished-at="2024-02-13T15:45:25 EET" duration-ms="14237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.folder.page.AmazonTest@52102734]" started-at="2024-02-13T15:45:26 EET" name="closeBrowser" finished-at="2024-02-13T15:45:26 EET" duration-ms="79" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.folder.page.AmazonTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- test.folder.page.AmazonTest -->
+</testng-results>
